@@ -1,1 +1,184 @@
-will upload soon
+Section - 1
+
+1. create a html for ordered list and unordered list with multiple list styles.
+2. create a simple application using all the semantic elements
+3. create a section which contains    headings & paragraphs and add background color to section and different colors to heading and paragraph.
+4. create few examples for block elements and inline elements
+5. write a examples using style attributes
+6. create a application that have navigation section, and user can navigate to other pages.
+
+----------------------------------------------------------------------------------
+
+section 2 :
+1. Create a Simple Personal Portfolio Website
+Objective:
+Create a personal portfolio website using HTML and CSS. This website will have multiple sections, including a header, an about section, a portfolio section, a contact form, and a footer.
+
+Requirements:
+
+Header:
+A navigation menu with links to different sections of the page (Home, About, Portfolio, Contact).
+The website title or logo.
+About Section:
+
+A heading titled "About Me".
+A brief paragraph describing yourself.
+An image of yourself or an avatar.
+Portfolio Section:
+
+A heading titled "My Work".
+A grid or list of at least three projects, each with a title, description, and an image or screenshot.
+Optional: Links to view the projects live or their code repositories.
+Contact Section:
+
+A heading titled "Contact Me".
+A form with fields for name, email, subject, and message.
+A submit button.
+
+Footer:
+Your name or website name.
+Links to social media profiles (e.g., LinkedIn, GitHub, Twitter).
+
+2.Create a Simple Recipe Website
+Objective:
+Create a simple recipe website using HTML and CSS. This website will have a home page, a recipe listing page, a recipe detail page, and a contact page.
+
+Requirements:
+
+Home Page:
+
+A navigation menu with links to Home, Recipes, and Contact pages.
+A welcome message with a brief introduction.
+A featured recipe section with a title, summary, and a "Read More" link.
+
+Recipes Page:
+A heading titled "Recipes".
+A list of recipe previews, each with a title, short description, and a "Read More" link.
+
+Recipe Detail Page:
+
+A heading with the recipe title.
+An image of the dish.
+A list of ingredients.
+Step-by-step cooking instructions.
+
+Contact Page:
+
+A heading titled "Contact Me".
+A form with fields for name, email, subject, and message.
+A submit button.
+
+Footer:
+Your name or website name.
+Links to social media profiles (e.g., LinkedIn, GitHub, Twitter).
+
+3. Create a Simple Travel Blog Website
+
+Objective:
+Create a simple travel blog website using HTML and CSS. This website will have a home page, an about page, a blog posts section, a destinations page, a gallery page, and a contact page.
+
+Requirements:
+
+Home Page:
+
+A navigation menu with links to Home, About, Blog, Destinations, Gallery, and Contact pages.
+A welcome message with a brief introduction.
+A featured blog post section with a title, summary, and a "Read More" link.
+About Page:
+
+A heading titled "About Me".
+A brief paragraph describing yourself and your travel experiences.
+An image of yourself or an avatar.
+Blog Page:
+
+A heading titled "Blog Posts".
+A list of blog post previews, each with a title, date, summary, and a "Read More" link.
+Destinations Page:
+
+A heading titled "Destinations".
+A list of destinations you have visited, each with a title, description, and an image.
+Gallery Page:
+
+A heading titled "Photo Gallery".
+A grid or list of images from your travels.
+Contact Page:
+
+A heading titled "Contact Me".
+A form with fields for name, email, subject, and message.
+A submit button.
+
+Footer:
+Your name or website name.
+Links to social media profiles (e.g., LinkedIn, GitHub, Twitter).
+-------------------------------------------------------------------------------------------
+
+Section -3
+
+Pseudo Class :
+Hover Effects on Navigation Bar
+Create a navigation bar where the links change background color and text color when hovered over using the :hover pseudo-class.
+Highlight Active Menu Item
+Create a vertical sidebar menu. Use the :active pseudo-class to highlight the menu item that is currently being clicked.
+ Style First and Last Child Elements
+Create a list of items. Use the :first-child and :last-child pseudo-classes to style the first and last items differently from the rest.
+Form Input Focus
+Create a form with several input fields. Use the :focus pseudo-class to change the border color of an input field when it is focused.
+Button Hover and Active States
+Create a button that changes color when hovered over and becomes darker when active (clicked).
+nth-child Odd and Even Rows
+Create a table with multiple rows. Use the :nth-child pseudo-class to style odd and even rows differently.
+nth-child Specific Element
+Create a list of items. Use the :nth-child pseudo-class to style every third item in the list.
+Visited Links Styling
+Create a list of links. Style the links to change color when they have been visited.
+-------------------------------------------------------------------------------------------------
+
+Section -4
+
+
+Flex-Box :
+
+Login Page
+Create a login page using Flexbox. The page should have a centered form with two input fields (username and password) and a login button.
+
+ Registration Page
+Design a registration page with a form containing input fields for name, email, password, and a register button. Arrange the form elements using Flexbox for a clean layout.
+
+ Navigation Bar
+Create a responsive navigation bar that uses Flexbox to arrange the navigation links horizontally. On smaller screens, the links should stack vertically.
+
+Product Card
+Design a product card using Flexbox. The card should include an image, product name, description, and price. Use Flexbox to align these elements neatly within the card.
+
+Gallery Page
+Create a gallery page that displays images in a grid. Use Flexbox to ensure that the images adjust their layout based on the screen size, with three images per row on larger screens and one image per row on s
+Smaller screens.
+
+Blog Post Layout
+Design a blog post layout with a title, author name, publication date, and content. Use Flexbox to position the author name and publication date side by side below the title.
+
+ Dashboard Layout
+Create a dashboard layout with a sidebar for navigation and a main content area. Use Flexbox to arrange the sidebar on the left and the main content on the right, ensuring the layout is responsive.
+
+ Footer
+Design a responsive footer that contains three sections: contact information, links, and social media icons. Use Flexbox to arrange these sections horizontally on larger screens and stack them vertically on smaller screens.
+
+Profile Page
+Create a profile page with a profile picture, name, and bio. Use Flexbox to arrange the profile picture on the left and the name and bio on the right.
+
+Pricing Table
+Design a pricing table with three columns for different pricing plans. Each column should include the plan name, price, and features. Use Flexbox to ensure that the columns are evenly spaced and responsive
+---------------------------------------------------------------------------------------------------
+
+Section -5
+
+Grid :
+
+Create a responsive image gallery where images automatically adjust their size to fill the grid cells. 
+
+Build a complex layout using grid-template-areas. Create a layout for a blog page with a header, sidebar, main content area, and footer. The sidebar should span the height of the layout, while the main content and header should adjust based on the screen width.
+
+ Build a responsive grid that uses auto-fit to automatically adjust the number of columns based on the viewport width. For example, the grid should have three columns on a wide screen, two columns on a medium screen, and one column on a narrow screen.
+
+
+
